@@ -9,3 +9,4 @@
 <img src="https://img.shields.io/badge/Volvo-red?style=for-the-badge&logo=volvo&logoColor=%23003057">
 <img src="https://img.shields.io/badge/Volvo-red?style=for-the-badge&logo=volvo&logoColor=%23003057" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
