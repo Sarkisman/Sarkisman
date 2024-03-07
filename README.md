@@ -1,4 +1,4 @@
-Мой стек технологий \n
-<img src="https://img.shields.io/badge/JavaScript-JavaScript-blue" />
-<img src="https://img.shields.io/badge/JavaScript-4B4B77?style=for-the-badge&logo=javascript&logoColor=yellow" />
+Мой стек технологий 
+<img src="https://img.shields.io/badge/JavaScript-005571?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/react-005571?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
