@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/html5-005571?style=for-the-badge&logo=html5&logoColor=E34F26" />
   
 <img src="https://img.shields.io/badge/css3-005571?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-005571?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/cssmodules-005571?style=for-the-badge&logo=cssmodules&logoColor=#000000" />
 <img src="https://img.shields.io/badge/JavaScript-005571?style=for-the-badge&logo=javascript&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Volvo-red?style=for-the-badge&logo=volvo&logoColor=%23003057">
 <img src="https://img.shields.io/badge/Volvo-red?style=for-the-badge&logo=volvo&logoColor=%23003057" />
