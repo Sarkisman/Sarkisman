@@ -23,6 +23,6 @@
     <img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sarkisio/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
