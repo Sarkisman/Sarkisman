@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/sarkisio" target="_blank">Sarkis</a> <br/>
-  <div id="badges"> <img src="https://komarev.com/ghpvc/?username=Sarkisman&style=flat-square&color=blue" alt=""/></div>
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
 <img src="https://img.shields.io/badge/JavaScript-005571?style=for-the-badge&logo=javascript&logoColor=yellow" />
 <img src="https://img.shields.io/badge/react-005571?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/html5-005571?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -13,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ <div id="badges"> <img src="https://komarev.com/ghpvc/?username=Sarkisman&style=flat-square&color=blue" alt=""/></div>
 
 
 <div id="badges">
