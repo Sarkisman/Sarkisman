@@ -16,7 +16,7 @@
 
 
 <div id="badges">
-  <a href="https://t.me/sarkisio>
+  <a href="https://t.me/sarkisio" >
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="your-youtube-URL">
