@@ -22,7 +22,7 @@
   <a href="https://vk.com/showshank">
     <img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+<!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
