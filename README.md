@@ -16,6 +16,7 @@
 
 <div > <img src="https://www.codewars.com/users/sarkisman/badges/large" alt=""/></div>
 <div > <img src="https://leetcode-stats-six.vercel.app/api?username=sarkisio&theme=dark" alt=""/></div>
+<div > <img src="https://github.com/sarkisio/leetcode-stats" alt=""/></div>
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sarkisio&theme=dark)](https://github.com/sarkisio/leetcode-stats) -->
 
 
