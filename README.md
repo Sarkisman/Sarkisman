@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
 
  <!--  Мой стек технологий -->
- <div > My technology stack </div>
+ <div > My technology stack: </div>
 <img src="https://img.shields.io/badge/JavaScript-005571?style=for-the-badge&logo=javascript&logoColor=yellow" />
 <img src="https://img.shields.io/badge/typescript-005571?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/react-005571?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/npm-005571?style=for-the-badge&logo=npm&logoColor=CB3837">
 <img src="https://img.shields.io/badge/git-005571?style=for-the-badge&logo=git&logoColor=#F05032" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkisman)](https://github.com/sarkisman/github-readme-stats)
 
  <div id="badges"> <img src="https://komarev.com/ghpvc/?username=Sarkisman&style=flat-square&color=blue" alt=""/></div>
 
