@@ -14,6 +14,8 @@
 
  <div id="badges"> <img src="https://komarev.com/ghpvc/?username=Sarkisman&style=flat-square&color=blue" alt=""/></div>
 
+<div > <img src="https://www.codewars.com/users/sarkisman/badges/large" alt=""/></div>
+
 
 <div id="badges">
   <a href="https://t.me/sarkisio" >
