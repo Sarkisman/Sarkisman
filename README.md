@@ -1,3 +1,5 @@
+
+<!--  Приветствие -->
 <h1 align="center">Hi there, I'm <a href="https://t.me/sarkisio" target="_blank">Sarkis</a> <br/>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
 <img src="https://img.shields.io/badge/JavaScript-005571?style=for-the-badge&logo=javascript&logoColor=yellow" />
@@ -16,8 +18,6 @@
 
 <div > <img src="https://www.codewars.com/users/sarkisman/badges/large" alt=""/></div>
 <div > <img src="https://leetcode-stats-six.vercel.app/api?username=sarkisio&theme=dark" alt=""/></div>
-<div > <img src="https://github.com/sarkisio/leetcode-stats" alt=""/></div>
-<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sarkisio&theme=dark)](https://github.com/sarkisio/leetcode-stats) -->
 
 
 <div id="badges">
