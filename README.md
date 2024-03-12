@@ -17,14 +17,18 @@
 <img src="https://img.shields.io/badge/npm-005571?style=for-the-badge&logo=npm&logoColor=CB3837">
 <img src="https://img.shields.io/badge/git-005571?style=for-the-badge&logo=git&logoColor=#F05032" />
 
+
+<!--  статистика используемых языков -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkisman)](https://github.com/sarkisman/github-readme-stats)
 
+<!--  статистика посещений моего профиля -->
  <div id="badges"> <img src="https://komarev.com/ghpvc/?username=Sarkisman&style=flat-square&color=blue" alt=""/></div>
 
+<!--  статистика моих codwars и leetcode -->
 <div > <img src="https://www.codewars.com/users/sarkisman/badges/large" alt=""/></div>
 <div > <img src="https://leetcode-stats-six.vercel.app/api?username=sarkisio&theme=dark" alt=""/></div>
 
-
+<!-- мои соцсети -->
 <div id="badges">
   <a href="https://t.me/sarkisio" >
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
